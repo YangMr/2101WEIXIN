@@ -1,0 +1,54 @@
+{
+  "entryPagePath" : "pages/person/person",
+  "pages": [
+    "pages/index/index",
+    "pages/study-calendar/study-calendar",
+    "pages/person/person"
+  ],
+  "window": {
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#f60",
+    "navigationBarTitleText": "积云教育",
+    "navigationBarTextStyle": "black",
+    "enablePullDownRefresh": true,
+    "navigationStyle": "default",
+    "backgroundColor": "#f60"
+  },
+  "tabBar": {
+    "color" : "#f60",
+    "selectedColor" : "#ccc",
+    "backgroundColor" : "#eee",
+    "borderStyle" : "white",
+    "position" : "bottom",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "精选",
+        "iconPath" : "./assets/icon/home.png",
+        "selectedIconPath" : "./assets/icon/home-active.png"
+      },
+      {
+        "pagePath": "pages/study-calendar/study-calendar",
+        "text": "我的课表",
+        "iconPath" : "./assets/icon/rili.png",
+        "selectedIconPath" : "./assets/icon/rili-active.png"
+      },
+      {
+        "pagePath": "pages/person/person",
+        "text": "个人中心",
+        "iconPath" : "./assets/icon/person.png",
+        "selectedIconPath" : "./assets/icon/person-active.png"
+      }
+    ]
+  },
+  "networkTimeout" : {
+    "request" : 10000,
+    "connectSocket" : 10000,
+    "uploadFile" : 10000,
+    "downloadFile" : 10000
+  },
+  "debug" : true,
+  "style": "v2",
+  "sitemapLocation": "sitemap.json",
+  "lazyCodeLoading": "requiredComponents"
+}

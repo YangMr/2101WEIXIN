@@ -1,0 +1,17 @@
+/* pages/center/center.wxss */
+page{
+    background: rgba(0,0,0,0.3);
+    height: 100%;
+    position: relative;
+}
+.center{
+    background: #fff;
+    width: 500rpx;
+    height: 400rpx;
+    position: absolute;
+    left : 50%;
+    top: 50%;
+    /*margin-left : -250rpx;*/
+    /*margin-top: -200rpx;*/
+    margin: -200rpx 0 0 -250rpx;
+}

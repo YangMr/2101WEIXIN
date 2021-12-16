@@ -1,0 +1,11 @@
+/* pages/center3/center3.wxss */
+page{
+    background: antiquewhite;
+    height: 100%;
+    display: grid;
+    place-items: center;
+}
+.center{
+    padding:20px;
+    background: aqua;
+}

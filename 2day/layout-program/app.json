@@ -1,0 +1,19 @@
+{
+  "pages": [
+    "pages/layout/layout",
+    "pages/center/center",
+    "pages/center2/center2",
+    "pages/center3/center3",
+    "pages/center4/center4",
+    "pages/center5/center5"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "Weixin",
+    "navigationBarTextStyle": "black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json",
+  "lazyCodeLoading": "requiredComponents"
+}

@@ -1,0 +1,14 @@
+/* pages/center5/center5.wxss */
+page{
+    height: 100vh;
+    width: 100vw;
+    background: antiquewhite;
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+}
+.center{
+    background: aqua;
+    padding:20px;
+    display: inline-block;
+}

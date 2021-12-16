@@ -1,0 +1,17 @@
+/* pages/layout/layout.wxss */
+page{
+    background: #ddd;
+    position: relative;
+    height : 100%;
+}
+.center{
+    width: 400rpx;
+    height: 350rpx;
+    background: antiquewhite;
+    position: absolute;
+    left : 0;
+    top:0;
+    bottom:0;
+    right :0;
+    margin: auto;
+}

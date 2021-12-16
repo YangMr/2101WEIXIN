@@ -1,0 +1,48 @@
+{
+  "setting": {},
+  "condition": {
+    "plugin": {
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "gamePlugin": {
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "name": "center",
+          "pathName": "pages/center/center",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "center2",
+          "pathName": "pages/center2/center2",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "center3",
+          "pathName": "pages/center3/center3",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "center4",
+          "pathName": "pages/center4/center4",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "center5",
+          "pathName": "pages/center5/center5",
+          "query": "",
+          "scene": null
+        }
+      ]
+    }
+  }
+}

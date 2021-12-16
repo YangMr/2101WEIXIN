@@ -1,0 +1,11 @@
+/* pages/center4/center4.wxss */
+page{
+    background: antiquewhite;
+    height: 100%;
+    display: flex;
+}
+.center{
+    padding: 40rpx;
+    background: aqua;
+    margin: auto;
+}

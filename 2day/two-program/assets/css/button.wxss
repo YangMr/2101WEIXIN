@@ -1,0 +1,9 @@
+.button{
+    width: 200rpx;
+    height: 50rpx;
+    background: linear-gradient(90deg, #5D5BED, #C549FF);
+    color : #fff;
+    font-size: 28rpx;
+    text-align: center;
+    line-height: 50rpx;
+}

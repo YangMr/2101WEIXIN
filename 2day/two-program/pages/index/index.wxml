@@ -1,0 +1,30 @@
+<!--<view>首页</view>-->
+<!--<view>{{msg}}</view>-->
+<!--<view>{{array[0].name}}</view>-->
+<!--<view>{{array[1].name}}</view>-->
+<!--<view wx:for="{{array}}">{{item.name}} &#45;&#45; {{index}}</view>-->
+<!--<view wx:for-item="item1" wx:for-index="i" wx:for="{{array}}">{{item1.name}} &#45;&#45; {{i}}</view>-->
+<!--<view class="container">-->
+<!--    <view>-->
+<!--        <block wx:for="{{[1,2,3,4,5]}}" wx:key="*this">-->
+<!--            <text>习近平访问美国</text>-->
+<!--            <text>2021年12月24习大大访问美国</text>-->
+<!--        </block>-->
+<!--    </view>-->
+<!--</view>-->
+<!--0: 审核已通过 1:未审核 2: 已删除 3: 审核未通过-->
+<!--<view class="container">-->
+<!--    <view class="article-list" wx:for="{{articleList}}"  wx:key="item.id">-->
+<!--        <view class="title">{{item.title}}</view>-->
+<!--        <view class="tag" wx:if="{{item.status == 0}}">审核已通过</view>-->
+<!--        <view class="tag" wx:elif="{{item.status == 1}}">未审核</view>-->
+<!--        <view class="tag" wx:elif="{{item.status == 2}}">已删除</view>-->
+<!--        <view class="tag" wx:else>审核未通过</view>-->
+<!--    </view>-->
+<!--</view>-->
+<!--<view class="list">-->
+<!--    <view wx:if="{{index !== 8}}" bindtap="selectTag" data-i="{{index}}" class="list-item {{index == activeIndex ? 'active' : ''}}" wx:for="{{labelList}}" wx:key="id">{{item.name}}</view>-->
+<!--</view>-->
+
+<!--<view>{{ status === 0 ? '正常' : '禁用'}}</view>-->
+<view class="button">马上抢</view>

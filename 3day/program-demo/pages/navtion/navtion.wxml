@@ -1,0 +1,27 @@
+<!--<view class="button primary go-wxml">-->
+<!--    <navigator url="/pages/wxml/wxml">-->
+<!--        跳转到wxml页面-->
+<!--    </navigator>-->
+<!--</view>-->
+
+<!--<view class="button danger">-->
+<!--    <navigator  bindsuccess="success"	extra-data="{{mini}}" app-id="wxfbae945ad74721e0" target="miniProgram">-->
+<!--        跳转到其他小程序-->
+<!--    </navigator>-->
+<!--</view>-->
+
+<!--<view class="button danger">-->
+<!--    <navigator  url="/pages/form/form">-->
+<!--        跳转到form页面-->
+<!--    </navigator>-->
+<!--</view>-->
+
+<!--<view class="button danger">-->
+<!--    <navigator open-type="switchTab" url="/pages/storage/storage">-->
+<!--        跳转到缓存页面-->
+<!--    </navigator>-->
+<!--</view>-->
+
+<view class="button primary" bindtap="goForm">跳转到form页面</view>
+
+<view class="button primary" bindtap="goStorage">跳转到tabbar页面</view>

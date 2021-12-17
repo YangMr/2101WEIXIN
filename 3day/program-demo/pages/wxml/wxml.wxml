@@ -1,0 +1,5 @@
+<view>{{message}}</view>
+<view id="{{attr}}" class="{{className}} {{bgPrimary}}">home</view>
+<view style="width:{{indexWidth + 'rpx'}};" class="index">index</view>
+<view class="button danger" bindtap="changeMessage">changeMessage</view>
+<view class="button primary" bindtap="changeWidth">changeWidth</view>

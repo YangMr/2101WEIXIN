@@ -1,0 +1,31 @@
+{
+  "pages": [
+    "pages/wxml/wxml",
+    "pages/navtion/navtion",
+    "pages/storage/storage",
+    "pages/load/load",
+    "pages/custom/custom",
+    "pages/form/form"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "Weixin",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar" : {
+    "list" : [
+      {
+        "pagePath" : "pages/wxml/wxml",
+        "text" : "首页"
+      },
+      {
+        "pagePath" : "pages/storage/storage",
+        "text" : "缓存"
+      }
+    ]
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json",
+  "lazyCodeLoading": "requiredComponents"
+}

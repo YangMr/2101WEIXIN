@@ -1,0 +1,15 @@
+/* pages/storage/storage.wxss */
+.input_box{
+    border-radius: 20rpx;
+    border:1px solid #ccc;
+    padding: 0 20rpx;
+    margin: 20rpx;
+    height: 90rpx;
+    line-height: 90rpx;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.search{
+    width: 100%;
+}

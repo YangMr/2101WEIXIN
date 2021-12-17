@@ -1,0 +1,14 @@
+<view class="button primary" bindtap="goForm">
+    跳转到form页面
+</view>
+
+<!--定义播放的按钮-->
+<!--点击按钮的时候-->
+<!--播放音乐-->
+
+<!--离开当前页面 关闭音乐-->
+
+<!--再回到当前页面的时候又 继续播放音乐-->
+
+<view class="button danger" bindtap="playMusic">播放音乐</view>
+<view class="button danger" bindtap="pauseMusic">暂停音乐</view>

@@ -1,0 +1,4 @@
+<view class="button danger">
+    <navigator open-type="navigateBack">返回上一页</navigator>
+</view>
+<view>{{formId}}</view>

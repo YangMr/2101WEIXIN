@@ -1,0 +1,16 @@
+.button{
+    min-width: 200rpx;
+    padding:20rpx;
+    height: 50rpx;
+    text-align: center;
+    line-height: 50rpx;
+    font-size: 28rpx;
+    color : #fff;
+    margin:20px;
+}
+.primary{
+    background: linear-gradient(90deg, #5D5BED, #C549FF);
+}
+.danger{
+    background: linear-gradient(90deg, #FAA137, #FF4065);
+}

@@ -1,0 +1,20 @@
+#home{
+    color : #f60;
+}
+.active{
+    width: 200rpx;
+    height: 50rpx;
+    border:1px dashed #f60;
+    text-align: center;
+    line-height: 50rpx;
+    margin: 20rpx;
+}
+.bgPrimary{
+    background: aqua;
+}
+.index{
+    height:50rpx;
+    margin:20rpx;
+    background:purple;
+    color : #fff;
+}

@@ -1,0 +1,4 @@
+<view class="input_box">
+    <input type="text" class="search" bindblur="getInputValue"/>
+</view>
+<view wx:for="{{history}}">{{item}}</view>

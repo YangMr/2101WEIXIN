@@ -1,0 +1,30 @@
+{
+  "setting": {},
+  "condition": {
+    "plugin": {
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "gamePlugin": {
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "name": "navtion",
+          "pathName": "pages/navtion/navtion",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "load",
+          "pathName": "pages/load/load",
+          "query": "",
+          "scene": null
+        }
+      ]
+    }
+  }
+}

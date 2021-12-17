@@ -1,0 +1,4 @@
+/* pages/navtion/navtion.wxss */
+.go-wxml{
+    margin: 20rpx;
+}

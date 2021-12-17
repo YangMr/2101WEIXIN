@@ -1,0 +1,4 @@
+<!--pages/grid/grid.wxml-->
+<view class="wrapper">
+    <view class="center-column"></view>
+</view>

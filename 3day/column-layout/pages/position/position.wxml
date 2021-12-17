@@ -1,0 +1,4 @@
+<!--pages/position/position.wxml-->
+<view class="wrapper">
+    <view class="center-column"></view>
+</view>

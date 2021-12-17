@@ -1,0 +1,12 @@
+/* pages/position/position.wxss */
+.wrapper{
+    position: relative;
+}
+.center-column{
+    width: 90%;
+    height: 100%;
+    background: cornsilk;
+    position: absolute;
+    left : 50%;
+    transform: translate(-50%,0);
+}

@@ -1,0 +1,15 @@
+/* pages/flex/flex.wxss */
+page{
+    height: 100%;
+}
+.wrapper{
+    background: #ddd;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+.center-column{
+    background: yellow;
+    height: 100%;
+    flex-basis: 600rpx;
+}

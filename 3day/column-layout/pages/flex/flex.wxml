@@ -1,0 +1,4 @@
+<!--pages/flex/flex.wxml-->
+<view class="wrapper">
+    <view class="center-column"></view>
+</view>

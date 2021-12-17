@@ -1,0 +1,19 @@
+{
+  "pages": [
+    "pages/margin/margin",
+    "pages/flex/flex",
+    "pages/position/position",
+    "pages/grid/grid",
+    "pages/inline-block/inline-block",
+    "pages/demo/demo"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "Weixin",
+    "navigationBarTextStyle": "black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json",
+  "lazyCodeLoading": "requiredComponents"
+}

@@ -1,0 +1,10 @@
+/* pages/grid/grid.wxss */
+.wrapper{
+    display: grid;
+    grid: 1fr / 1fr 10fr 1fr;
+}
+.center-column{
+    background: cornsilk;
+    grid-area: 1 / 2 / 2 / 3;
+    height: 100%;
+}

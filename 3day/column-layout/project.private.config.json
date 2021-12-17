@@ -1,0 +1,48 @@
+{
+  "setting": {},
+  "condition": {
+    "plugin": {
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "gamePlugin": {
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "name": "flex",
+          "pathName": "pages/flex/flex",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "position",
+          "pathName": "pages/position/position",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "inline-block",
+          "pathName": "pages/inline-block/inline-block",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "grid",
+          "pathName": "pages/grid/grid",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "demo",
+          "pathName": "pages/demo/demo",
+          "query": "",
+          "scene": null
+        }
+      ]
+    }
+  }
+}

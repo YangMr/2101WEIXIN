@@ -27,4 +27,4 @@
 <!--</view>-->
 
 <!--<view>{{ status === 0 ? '正常' : '禁用'}}</view>-->
-<view class="button">马上抢</view>
+<view class="button" >马上抢</view>

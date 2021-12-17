@@ -84,6 +84,7 @@ Page({
       array : res
     })
 
+
     //当页面加载的时候请求数据   wx.request()
     wx.request({
       url : "http://m.mengxuegu.com/api/article/api/category/label/list",

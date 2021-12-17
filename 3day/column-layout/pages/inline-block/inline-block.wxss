@@ -1,0 +1,10 @@
+/* pages/inline-block/inline-block.wxss */
+.wrapper{
+    text-align: center;
+}
+.center-column{
+    width: 90%;
+    height: 100%;
+    display: inline-block;
+    background: cornsilk;
+}

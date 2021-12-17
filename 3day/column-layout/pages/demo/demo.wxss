@@ -1,0 +1,19 @@
+.wrapper{
+    height: auto;
+}
+.column{
+    width: 90%;
+    /*height: 100%;*/
+    background: cornsilk;
+    margin: 0 auto;
+    box-shadow: 1px 3px 3px #000;
+}
+.column-item{
+    padding: 40rpx;
+    background: #fff;
+    height: 120rpx;
+    border-bottom: 1px solid #ddd;
+}
+.column-item:last-child{
+    border-bottom: 0;
+}

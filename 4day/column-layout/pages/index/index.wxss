@@ -1,0 +1,14 @@
+/* pages/index/index.wxss */
+.button-group{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+.button{
+  width: 250rpx;
+  height: 120rpx;
+  background-color: bisque;
+  text-align: center;
+  line-height: 120rpx;
+  margin: 20rpx;
+}

@@ -1,0 +1,4 @@
+<view class="button-group">
+  <view class="button" data-path="{{item.path}}" bindtap="toPath" wx:for="{{buttonArray}}" wx:key="index">{{item.name}}</view>
+
+</view> 

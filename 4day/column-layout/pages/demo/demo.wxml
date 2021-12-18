@@ -1,0 +1,41 @@
+<view class="container">
+  <view class="left">
+    <view  class="media-item" wx:for="{{array[0].left}}" wx:key="index">
+      <image src="{{item.imgUrl}}"></image>
+      <text>{{item.title}}</text>
+    </view>
+  </view>
+  <view class="right">
+    <view  class="media-item" wx:for="{{array[0].right}}" wx:key="index">
+      <image src="{{item.imgUrl}}"></image>
+      <text>{{item.title}}</text>
+    </view>
+  </view>
+</view>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

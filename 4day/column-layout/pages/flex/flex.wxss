@@ -1,0 +1,11 @@
+/* pages/flex/flex.wxss */
+.container{
+  height: 100%;
+  background-color: darkorchid;
+  display: flex;
+  justify-content: space-evenly;
+}
+.container view{
+  flex-basis: 48%;
+  background-color: #fff;
+}

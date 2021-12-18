@@ -1,0 +1,3 @@
+<view bindtap="handleClick" class="button {{type}} {{size ? size : ''}} {{disabled ? 'disabled' : ''}}" >
+  <slot></slot>
+</view>

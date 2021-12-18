@@ -1,0 +1,30 @@
+/* components/Button/Button.wxss */
+.button{
+  box-shadow: 0 0 1px #b8bbbf;
+  height: 78rpx;
+  padding:2rpx 12rpx;
+  text-align: center;
+  line-height: 78rpx;
+  border-radius: 10rpx;
+}
+.default{
+  color: #656b79;
+  background-color: #f6f8fa;
+}
+.primary{
+  color : #fff;
+  background-color: #26a2ff;
+}
+.danger{
+  color: #fff;
+  background-color: #ef4f4f;
+}
+
+.small{
+  display: inline-block;
+  padding: 0 12px;
+}
+
+.disabled{
+  background-color: #eee;
+}

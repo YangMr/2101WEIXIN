@@ -1,0 +1,6 @@
+<view class="tab">
+  <view data-index="{{index}}" bindtap="handleTab" class="tab-item" wx:for="{{data}}" wx:key="index">
+    <view class="title">{{item.title}}</view>
+    <view wx:if="{{index == active}}" class="line"></view>
+  </view>
+</view>

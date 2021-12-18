@@ -1,0 +1,73 @@
+<my-tab active="{{activeIndex}}" bindsuccess="success" data="{{tabData}}"></my-tab>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- <view style="padding:20rpx;">
+  <my-button>默认按钮</my-button>
+  <my-button type="primary">primary</my-button>
+  <my-button type="danger">danger</my-button>
+</view>
+
+<view style="padding:20rpx;">
+  <my-button size="small" type="danger">danger</my-button>
+</view>
+
+<view style="padding:20rpx;">
+  <my-button disabled type="danger">danger</my-button>
+</view> -->
+
+<!-- <view style="padding:20rpx;">
+  <my-button type="primary" bindtapClick="click">danger</my-button>
+</view> -->
+
+
+<!-- <view style="padding:20rpx;">
+  <my-button id="button" type="primary" bindtapClick="click">danger</my-button>
+</view>
+
+<view>
+  <button bindtap="handleChild">调用子组件的方法</button>
+</view> -->

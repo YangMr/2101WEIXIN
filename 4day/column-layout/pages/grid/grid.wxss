@@ -1,0 +1,13 @@
+/* pages/grid/grid.wxss */
+.container{
+  height: 100%;
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
+  gap : 20rpx;
+  background-color: #ccc;
+}
+
+.container view{
+  height: 100%;
+  background-color: #fff;
+}

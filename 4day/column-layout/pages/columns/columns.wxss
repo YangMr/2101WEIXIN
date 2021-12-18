@@ -1,0 +1,17 @@
+/* pages/columns/columns.wxss */
+.container{
+  height: 100%;
+  background-color: burlywood;
+  columns: 2;
+  column-gap: 20rpx;
+}
+.left{
+  height: 120rpx;
+  background-color:darkgrey;
+  margin-left: 20rpx;
+}
+.right{
+  height: 120rpx;
+  background-color: cornflowerblue;
+  margin-right: 20rpx;
+}

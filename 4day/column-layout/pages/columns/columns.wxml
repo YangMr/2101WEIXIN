@@ -1,0 +1,5 @@
+<view class="container">
+  <view class="left">左</view>
+  <view class="right">右</view>
+  
+</view>

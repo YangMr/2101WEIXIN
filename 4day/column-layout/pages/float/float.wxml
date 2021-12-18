@@ -1,0 +1,4 @@
+<view class="container">
+  <view class="left">left</view>
+  <view class="right">right</view>
+</view>

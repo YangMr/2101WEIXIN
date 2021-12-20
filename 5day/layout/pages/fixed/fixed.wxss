@@ -1,0 +1,19 @@
+/* pages/fixed/fixed.wxss */
+.container{
+  width: 100%;
+  height: 100%;
+  background-color: #ddd;
+}
+.top{
+  height : 160rpx;
+  background-color: bisque;
+  position: fixed;
+  left:0;
+  top:0;
+  width: 100%;
+}
+.main{
+  height: 1000px;
+  margin-top: 160rpx;
+  background-color: chocolate;
+}

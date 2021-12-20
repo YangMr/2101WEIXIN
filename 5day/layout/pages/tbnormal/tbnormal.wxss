@@ -1,0 +1,17 @@
+/* pages/tbnormal/tbnormal.wxss */
+.container{
+  width: 100%;
+  height: 100%;
+  background-color: #ddd;
+}
+.top{
+  height: 120rpx;
+  background-color: sandybrown;
+}
+.main{
+  overflow-y: auto;
+}
+.bottom{
+  height: 120rpx;
+  background-color: sandybrown;
+}

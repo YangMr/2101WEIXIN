@@ -1,0 +1,27 @@
+/* pages/tbfixed/tbfixed.wxss */
+.container{
+  width: 100%;
+  height: 100%;
+  background-color: #ddd;
+}
+.top{
+  height: 120rpx;
+  background-color: purple;
+  position: fixed;
+  left: 0;
+  top : 0;
+  width: 100%;
+}
+.main{
+  margin: 120rpx 0;
+  height: 1000px;
+  background-color: sandybrown;
+}
+.bottom{
+  height: 120rpx;
+  background-color: saddlebrown;
+  position: fixed;
+  left: 0;
+  bottom : 0;
+  width: 100%;
+}

@@ -1,0 +1,7 @@
+<view class="container">
+  <view class="top">top</view>
+  <view class="main" style="height : {{mainHeight}}px">
+    <view wx:for="{{[1,2,3,4,5,6,7,8,9,1,2,3,4,56,7,8,9,12,3,4,5,6,7,2,3,4,5,6,7,8,9,1,2,3,4,56,7,8,9,12,3,4,5,6]}}">main</view>  
+  </view>
+  <view class="bottom">bottom</view>
+</view>

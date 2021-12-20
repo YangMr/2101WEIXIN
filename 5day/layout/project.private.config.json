@@ -1,0 +1,42 @@
+{
+  "setting": {},
+  "condition": {
+    "plugin": {
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "gamePlugin": {
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "name": "normal",
+          "pathName": "pages/normal/normal",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "demo",
+          "pathName": "pages/demo/demo",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "tbfixed",
+          "pathName": "pages/tbfixed/tbfixed",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "tbnormal",
+          "pathName": "pages/tbnormal/tbnormal",
+          "query": "",
+          "scene": null
+        }
+      ]
+    }
+  }
+}

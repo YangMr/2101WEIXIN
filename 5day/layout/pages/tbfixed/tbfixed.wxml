@@ -1,0 +1,5 @@
+<view class="container">
+  <view class="top">top</view>
+  <view class="main">main</view>
+  <view class="bottom">bottom</view>
+</view>

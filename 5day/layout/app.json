@@ -1,0 +1,20 @@
+{
+  "pages": [
+    "pages/fixed/fixed",
+    "pages/margin/margin",
+    "pages/normal/normal",
+    "pages/demo/demo",
+    "pages/tbfixed/tbfixed",
+    "pages/tbnormal/tbnormal",
+    "pages/tbdemo/tbdemo"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "Weixin",
+    "navigationBarTextStyle": "black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json",
+  "lazyCodeLoading": "requiredComponents"
+}

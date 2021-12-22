@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        *{margin : 0; padding : 0;}
+        html,body{width : 100%;}
+        .header{background-color: aqua; height:80px; display : flex;}
+        .logo{width : 220px; background : red; }
+        .content{display : flex; flex : 1; }
+        .nav{width : 600px; background : purple;}
+        .group{flex : 1; background : green;}
+        .icon{width:80px; background : bisque; display : none;}
+
+        @media screen and (max-width: 1200px){
+            .content{
+                display : none;
+            }
+            .header{
+                justify-content : space-between;
+            }
+            .icon{
+                display : block;
+
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="logo">logo</div>
+        <div class="content">
+            <div class="nav">nav</div>
+            <div class="group">button</div>
+        </div>
+        <div class="icon">icon</div>
+    </div>
+</body>
+</html>
